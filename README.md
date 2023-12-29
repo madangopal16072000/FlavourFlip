@@ -1,3 +1,10 @@
+## Screenshots
+![WhatsApp Image 2023-12-29 at 16 13 44_5ec5203d](https://github.com/madangopal16072000/FlavourFlip/assets/109917122/87e5c459-2d83-4215-acf4-e6dd0a7c4576)
+![WhatsApp Image 2023-12-29 at 16 13 44_a124ff98](https://github.com/madangopal16072000/FlavourFlip/assets/109917122/2e2b2c29-f6ea-4c59-919a-0deb28639b82)
+![WhatsApp Image 2023-12-29 at 16 13 43_7a6f3734](https://github.com/madangopal16072000/FlavourFlip/assets/109917122/d4072b22-04ad-4f75-9f9c-d0cf200b25b3)
+![WhatsApp Image 2023-12-29 at 16 13 43_303e06f3](https://github.com/madangopal16072000/FlavourFlip/assets/109917122/60cb3c88-8f3c-4a15-9007-28037ad2c107)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
